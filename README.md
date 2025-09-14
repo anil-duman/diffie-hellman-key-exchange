@@ -117,5 +117,10 @@ This project serves as a comprehensive educational resource for:
 
 ## Team Members
 
-- Oğuzhan Öztürk, Gizem Öztürk, Ghazaleh Alizadehbirjandi, Anil Duman, Ali Özay, Sena Karamanlı Aydın
+- Oğuzhan Öztürk
+- Gizem Öztürk
+- Ghazaleh Alizadehbirjandi
+- Anil Duman
+- Ali Özay
+- Sena Karamanlı Aydın
 
